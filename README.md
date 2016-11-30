@@ -1,4 +1,4 @@
-# Basketball.fantasyproject
+# Basketball-fantasyproject
 
 This website gives you full statistics on projections for the upcoming 2016-17 season, It also gives you depth charts for all 30 teams, and what the season is going to look like for each team based on their current records.
 
